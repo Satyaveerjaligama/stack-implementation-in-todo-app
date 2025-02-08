@@ -1,0 +1,25 @@
+.todo-container {
+  width: 30%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.buttons-container {
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.task-item {
+  background-color: #4400ee0f;
+  border-radius: 10px;
+  padding: 5px 0px 5px 10px;
+  margin: 6px 0px;
+  text-align: left;
+}
+
+.stacks-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}

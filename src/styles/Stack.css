@@ -1,0 +1,28 @@
+.stack-container {
+  margin-top: 10px;
+}
+
+.stack-title {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.stack-item {
+  background-color: #f3000d14;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin: 6px 0px;
+  text-align: left;
+}
+
+.redo-background {
+  background-color: #00c69d1f;
+}
+
+.stack-item:first-child {
+  background-color: #f3000d4a;
+}
+
+.stack-item.redo-background:first-child {
+  background-color: #00c69d73;
+}
